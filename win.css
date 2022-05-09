@@ -1,1 +1,16 @@
 button{border-radius: 50%;border-width: 2px;}
+table,
+th,
+td {
+    border: 1px solid red;
+}
+.red-text{
+    color:red;
+}
+.small-font{
+    font-size: 60px;
+}
+
+#myTitle {
+    color: blue;
+}
